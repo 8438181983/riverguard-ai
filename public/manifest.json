@@ -1,0 +1,9 @@
+{
+  "name": "WAVE",
+  "short_name": "WAVE",
+  "description": "Water Anomaly & Validation Engine",
+  "start_url": "/citizen",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#9fe870"
+}

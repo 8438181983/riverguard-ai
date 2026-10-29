@@ -1,0 +1,82 @@
+[
+  {
+    "zone_id": "adyar_river_01",
+    "name": "Adyar River - Chennai Segment",
+    "river_name": "Adyar River",
+    "province": "Tamil Nadu",
+    "lat": 13.0067,
+    "lng": 80.2206,
+    "radius_km": 2,
+    "basin": "Adyar River Basin"
+  },
+  {
+    "zone_id": "cauvery_river_01",
+    "name": "Cauvery River - Trichy Segment",
+    "river_name": "Cauvery River",
+    "province": "Tamil Nadu",
+    "lat": 10.7905,
+    "lng": 78.7047,
+    "radius_km": 3,
+    "basin": "Cauvery River Basin"
+  },
+  {
+    "zone_id": "koovam_river_01",
+    "name": "Cooum River - Chennai Segment",
+    "river_name": "Cooum River",
+    "province": "Tamil Nadu",
+    "lat": 13.0827,
+    "lng": 80.2707,
+    "radius_km": 2.5,
+    "basin": "Cooum River Basin"
+  },
+  {
+    "zone_id": "ganga_river_01",
+    "name": "Ganga River - Varanasi Segment",
+    "river_name": "Ganga River",
+    "province": "Uttar Pradesh",
+    "lat": 25.3176,
+    "lng": 83.0068,
+    "radius_km": 2,
+    "basin": "Ganga River Basin"
+  },
+  {
+    "zone_id": "yamuna_river_01",
+    "name": "Yamuna River - Delhi Segment",
+    "river_name": "Yamuna River",
+    "province": "Delhi",
+    "lat": 28.6139,
+    "lng": 77.209,
+    "radius_km": 2.5,
+    "basin": "Yamuna River Basin"
+  },
+  {
+    "zone_id": "brahmaputra_river_01",
+    "name": "Brahmaputra River - Guwahati Segment",
+    "river_name": "Brahmaputra River",
+    "province": "Assam",
+    "lat": 26.1445,
+    "lng": 91.7362,
+    "radius_km": 2,
+    "basin": "Brahmaputra River Basin"
+  },
+  {
+    "zone_id": "godavari_river_01",
+    "name": "Godavari River - Rajahmundry Segment",
+    "river_name": "Godavari River",
+    "province": "Andhra Pradesh",
+    "lat": 17.0005,
+    "lng": 81.804,
+    "radius_km": 3,
+    "basin": "Godavari River Basin"
+  },
+  {
+    "zone_id": "krishna_river_01",
+    "name": "Krishna River - Vijayawada Segment",
+    "river_name": "Krishna River",
+    "province": "Andhra Pradesh",
+    "lat": 16.5062,
+    "lng": 80.648,
+    "radius_km": 2.5,
+    "basin": "Krishna River Basin"
+  }
+]
